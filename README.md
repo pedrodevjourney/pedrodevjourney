@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=452c63&height=180&section=header&text=Pedrodevjourney&fontSize=30&=fontColor=ffc000&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=452c63&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Henrique;I'm+18+years+old;I+from+Brazil;+I+am+a+Computer+Science+student;Be+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffc000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Henrique;I'm+18+years+old;I+from+Brazil;+I+am+a+Computer+Science+student;Be+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## 🚀 **About me**
 * I am from Brazil, Minas Gerais 🇧🇷
