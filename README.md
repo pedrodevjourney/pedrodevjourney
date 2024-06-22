@@ -24,7 +24,7 @@
 ### 📊 **GitHub Stats**
 ![Pedrodevjourney GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodevjourney&show_icons=true&theme=shades-of-purple)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=shades-of-purple)](https://git.io/streak-stats)
+[![Pedrodevjourney GitHub stats](https://streak-stats.demolab.com/?user=DenverCoder1&theme=shades-of-purple)](https://git.io/streak-stats)
 
 
 ##
