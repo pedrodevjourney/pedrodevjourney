@@ -15,7 +15,6 @@
 ### 👥 **Socials**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-11a0b62b4/)
 [![iCloud Mail](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](pedrodevjourney@icloud.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_pvde)
 [![Instagram](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Pedrodevjourney)
 
 
