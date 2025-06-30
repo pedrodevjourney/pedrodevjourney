@@ -43,10 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrodevjourney&theme=react-dark&hide_border=true" />
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedrodevjourney/pedrodevjourney/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
