@@ -33,6 +33,29 @@
 
 ---
 
+## 🧠 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrodevjourney&theme=shades-of-purple&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrodevjourney&theme=react-dark&hide_border=true" />
+</p>
+
+<!-- Optional: Snake animation (requires setup) -->
+<!--
+<p align="center">
+  <img src="https://github.com/pedrodevjourney/pedrodevjourney/blob/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrodevjourney&color=ffc000&style=flat-square" />
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -54,7 +77,6 @@
 
 ---
 
-<!-- Optional footer -->
 <p align="center" style="font-family: Roboto, sans-serif;">
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
