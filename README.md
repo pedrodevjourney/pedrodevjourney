@@ -8,11 +8,21 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 React Native Developer at [Hubsoft](https://hubsoft.com.br)  
-- 🎓 Computer Science undergraduate  
-- 📱 Passionate about mobile apps, clean code, and scalable architecture  
-- 🌍 Based in Minas Gerais, Brazil 🇧🇷  
-- 🔄 Lifelong learner & tech enthusiast  
+I’m a Mobile and Full-Stack Developer with a strong focus on building scalable, maintainable, and high-performance applications. Currently working at Hubsoft as a React Native developer, I bring experience in both frontend and backend development, with a deep appreciation for clean architecture and modern development practices.
+
+I’m pursuing a degree in Computer Science and continuously improving my skills through real-world projects and ongoing learning. My work is driven by curiosity, precision, and the desire to create meaningful digital experiences.
+
+Key Focus Areas:
+
+    Mobile-first development using React Native and modern frameworks
+
+    Scalable architectures following SOLID principles
+
+    Full-stack development with Node.js, Laravel, and modern databases
+
+    Emphasis on clean code, testing, and team collaboration
+
+Currently based in Minas Gerais, Brazil, and open to global opportunities and collaboration.
 
 ---
 
